@@ -1,10 +1,8 @@
-# Prework Week 6
+# Prime Digital Academy - Pre-Work Week 6 Assignment
 
 JavaScript can do some amazing things to our web pages! But sometimes we would rather write less code and accomplish the same things.
 
 This is where a code library like [jQuery](http://www.jquery.com) comes in! jQuery is written in JavaScript and allows us to use its built-in functions instead of writing the longer raw  JavaScript to do things. jQuery really shines in DOM manipulation and Event handling.
-
-Look at all the topics you covered below, impressive. I am sure by now you have seen how powerful jQuery is and are excited to get started trying it.
 
 ## Topics Cover
 - File Linking / Libraries
